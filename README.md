@@ -106,6 +106,3 @@ Training curves for:
 This project was implemented by following a hands-on coding session from the **Deep Learning** course.
 The implementation is therefore a **learning exercise**, not an original research project.
 
-
-Hazır!
-İstersen daha sade, daha teknik veya daha uzun bir README formatı da yazabilirim.
